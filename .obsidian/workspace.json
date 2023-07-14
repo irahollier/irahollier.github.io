@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-07-13-Test.md",
+                "file": "Templates/Title.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-07-13-Test.md",
+                "file": "Templates/Title.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-07-13-Test.md",
+                "file": "Templates/Title.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-07-13-Test.md"
+                "file": "Templates/Title.md"
               }
             }
           }
@@ -159,8 +159,8 @@
   "active": "7197ec41b3d3852a",
   "lastOpenFiles": [
     "Media/Pasted image 20230713194042.png",
-    "Templates/Title.md",
     "_posts/2023-07-13-Test.md",
+    "Templates/Title.md",
     "_posts/2023-07-13-Temp.md",
     "Templates",
     "Media",
