@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "387f2512ddd17bfd",
@@ -158,14 +158,14 @@
   },
   "active": "7197ec41b3d3852a",
   "lastOpenFiles": [
+    "Templates/Title.md",
+    "_posts/2023-07-13-Test.md",
+    "_posts/2023-07-13-Temp.md",
+    "Media/Pasted image 20230713194042.png",
     "_tabs/tags.md",
     "_tabs/categories.md",
     "_tabs/archives.md",
     "_tabs/about.md",
-    "Media/Pasted image 20230713194042.png",
-    "_posts/2023-07-13-Test.md",
-    "_posts/2023-07-13-Temp.md",
-    "Templates/Title.md",
     "Templates",
     "Media",
     "Pasted image 20230713192525.png"
